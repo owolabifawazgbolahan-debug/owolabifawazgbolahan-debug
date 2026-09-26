@@ -1,16 +1,109 @@
-## Hi there 👋
+# 👋 Hi, I'm Fawaz Owolabi
 
-<!--
-**owolabifawazgbolahan-debug/owolabifawazgbolahan-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Web Developer | Building Modern & Responsive Web Experiences
 
-Here are some ideas to get you started:
+I'm a web developer focused on creating **clean, responsive, interactive, and user-friendly websites and web applications**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into functional digital experiences while continuously improving my development skills.
+
+---
+
+## 🚀 About Me
+
+- 💻 Web Developer
+- 🌍 Based in Nigeria
+- 🔨 Building modern websites and web applications
+- 📚 Continuously learning and improving my development skills
+- 🎯 Open to freelance opportunities and collaborations
+
+---
+
+## 🛠️ Technologies & Tools
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React
+
+### Backend
+- Python
+- Flask
+- REST APIs
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Chrome DevTools
+
+---
+
+## 🚀 Featured Projects
+
+### 🌱 Agruva
+
+A modern business-focused website designed with responsive layouts, smooth interactions, and a professional user experience.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 💳 VERA
+
+A modern fintech concept focused on presenting financial services through a clean, responsive, and user-friendly interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+---
+
+### 🍽️ NOIRE
+
+A premium fine-food website concept featuring an elegant visual design, responsive layouts, and interactive user experiences.
+
+**Technologies:** HTML, CSS, Bootstrap, JavaScript
+
+---
+
+## 🌐 My Portfolio
+
+### **[Visit My Portfolio →](https://owolabifawazgbolahan-debug.github.io/FAWAZ/)**
+
+Explore my projects, skills, services, and web development work.
+
+---
+
+## 📈 Currently Learning
+
+I'm continuously expanding my skills in:
+
+- Advanced JavaScript
+- React
+- Modern frontend development
+- Backend development with Python
+- Building production-ready web applications
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to:
+
+- Freelance projects
+- Web development opportunities
+- Collaborations
+- Interesting projects
+- Learning opportunities
+
+📧 **Email:** owolabifawazgbolahan@gmail.com
+
+🌐 **Portfolio:** https://owolabifawazgbolahan-debug.github.io/FAWAZ/
+
+🐙 **GitHub:** [@owolabifawazgbolahan-debug](https://github.com/owolabifawazgbolahan-debug)
+
+---
+
+### ⚡ Build. Learn. Improve. Repeat.
+
+Thanks for visiting my profile! 🚀
